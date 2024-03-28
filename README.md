@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm still taking baby steps. I learn new things, make mistakes and learn from it. 
+If anything is wrong, please feel free to message me
 
 <!--
 **enesturhn/enesturhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
